@@ -1,3 +1,3 @@
-Here is the matplotlib Homework for The Coding Bootcamp.
-
-The jupyter notebook your looking for is in the starter code , "pymaceuticals_starter.ipynb"
+# Graphing Pymaceutical Data
+This is a jupyter notebook using matplotlib to graph pharmaceutical data from a trial testing cancer
+drugs on rats.  
